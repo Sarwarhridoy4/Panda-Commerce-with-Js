@@ -1,0 +1,31 @@
+html {
+    font-family: 'Poppins', sans-serif;
+}
+
+.custom-bg-color {
+    background: #FCEAE8;
+}
+
+button.custom-button {
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    font-weight: 700;
+    color: #ffffff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+}
+
+#top {
+    position: absolute;
+    right: 0;
+
+}
+.lightblue{
+    color: lightblue;
+}
+.bend-corner{
+    border-radius: 30px;
+}
+.hidden{
+    display: none;
+}
